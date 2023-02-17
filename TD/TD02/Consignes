@@ -1,29 +1,8 @@
-
-loubna serrar <loubna.serrar@gmail.com>
-Pièces jointes
-23:07 (il y a 6 minutes)
-À Hilda, Teo, Margot, Jeevya, Patricia, Loris, Samer, Fabien, Tristan, Lise, Clara, Flavie, Serena, Marjolaine, Evanna, Alexandrine, Baptiste, Theo, Mathilde, Manon, Amelia, Oceane, Smahane, Youngbin, Pauline, Tanguy, Clotilde, Emma, Viet, Zoe, Jade, Emmanuelle, Cyndia, Celine, Maximilien, Laurine, Loubna, Papa, Annini, Paul, Romain, Carmen
-
-Bonjour,
-
-Nous nous retrouvons demain vendredi 17 février à 10h en salle B121. 
-
-Je souhaite vous rappeler quelsques informations importantes pour le bon déroulé du cours : 
-Les supports du cours sont disponible sur le lien Github: https://github.com/lserrar/LZML041
-Vous devez créer votre compte Github et me fournir l'identifiant. Pour ceux qui l'ont fait, vous avez recu une invitation de Github pour se joindre au groupe, que vous devez accepter.
-L'installation de Python sur votre ordinateur est obligatoire pour suivre le cours. Le controle continu et le projet final seront effectué sur cet outil. Ci-dessous un rappel de la procédure d'installation.
-Lors de chaque séance, il y'aura une partie pratique sur Python, avec des notebooks, également disponible sur Github. En pièces jointes, les notebooks que nous utiliserons demain. Vous devez les mettres dans votre dossier Python.
-Enfin, le prochain controle continu portera sur la constitution de votre premier corpus. Je vous le communiquerez lors de la séance du 24 février, et vous aurez à le rendre pour le 10 mars sur Github...
-Voilà, à demain !
-
-Loubna
-
-Installation Python !
-Pour commencer, téléchargez la distribution Anaconda correspondant à votre système d’exploitation, en Python version 3 : https://www.anaconda.com/distribution/
-Installez Anaconda sur Windows ou Mac
-Téléchargez l’installeur Windows ou macOS, et double-cliquez pour lancer l’installation.
-Répondez aux différentes questions (les options par défaut suffisent !). Une fois l’installation terminée, vous pouvez vérifier que celle-ci s’est bien passée en lançant l’application Jupyter Notebook.
-Lancez Jupyter
-Sous macOS, lancez Anaconda Navigator via le Launchpad.
-Sous Windows, lancez Anaconda Navigator depuis votre liste de programmes.
-Vous pouvez maintenant ouvrir Jupyter Notebook ou lab !
+Objectif : création de votre premier corpus
+Consignes :
+- Le corpus doit contenir au moins 70000 tweets
+- Le corpus doit compter au moins 5 ans d’historique
+- Préciser votre sujet de recherche: tweets contenat un terme précis (ex: Bitcoins), ou émis d’un compte particulier (ex: @Elonmusk)
+À rendre pour le 10 mars 2023 :
+- Votre corpus au format csv nomenclature: Tweets_SujetXXX_prenon_NOM
+- à poster sur GitHub : https://github.com/lserrar/LZML041/tree/main/TD/TD02
